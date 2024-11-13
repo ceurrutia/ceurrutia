@@ -35,8 +35,8 @@
 
 <!--profile visit count-->
 <div align="center">
-## My Profile  
-[![](https://profile-psi-topaz.vercel.app/)](https://profile-psi-topaz.vercel.app/)
+<h3>My Profile</h3>   
+<a href="https://profile-psi-topaz.vercel.app/)](https://profile-psi-topaz.vercel.app/">Visit</a>a>
   
 </div>
 
