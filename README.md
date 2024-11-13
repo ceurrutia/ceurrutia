@@ -28,15 +28,10 @@
     <img src="https://skillicons.dev/icons?i=git,css,discord,postgres,express,html,java,js,mongodb,mysql,nodejs,py,react,vscode&perline=14" />
   </a>
 </p>
-
-
-
-
-
 <!--profile visit count-->
 <div align="center">
 <h3>My Profile</h3>   
-<a href="https://profile-psi-topaz.vercel.app/)](https://profile-psi-topaz.vercel.app/">Visit</a>a>
+<a href="https://profile-psi-topaz.vercel.app" target="_blank">Visit </a>
   
 </div>
 
