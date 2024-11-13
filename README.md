@@ -8,8 +8,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Jr. Backend**
-
 - 🌱 I’m currently learning ****
 
 - ☁️ Python, Java, Spring, Nodejs, MongoDB, MySQL
