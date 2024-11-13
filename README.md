@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,postgres,express,html,java,js,mongodb,mysql,nodejs,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,css,postgres,express,html,java,js,mongodb,mysql,nodejs,vscode, py, django&perline=14" />
   </a>
 </p>
 <!--profile visit count-->
